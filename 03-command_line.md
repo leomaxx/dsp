@@ -12,25 +12,25 @@ Here's a list of items with which you should be familiar:
 * show current working directory path  
 * creating a directory  
 * deleting a directory   
-* creating a file using `touch` command  
-* deleting a file . 
-* renaming a file . 
-* listing hidden files . 
-* copying a file from one directory to another . 
+* creating a file using `touch` command    
+* deleting a file  
+* renaming a file   
+* listing hidden files   
+* copying a file from one directory to another   
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 `pwd: show current working directory path`  
-`mkdir: creating a directory` 
+`mkdir: creating a directory`   
 `rm -r: deleting a directory`  
-`touch: create a file`
-`rm: deleting a file`
-`mv: renaming a file`
-`ls -a: listing hidden files`
-`cp dirA\file dirB: copying a file from one directory to another`
-`vi: edit a file`
-`chown: changing ownership of a file/directory`
-`chmod: changing permission of a file/directory`
+`touch: create a file`  
+`rm: deleting a file`  
+`mv: renaming a file`  
+`ls -a: listing hidden files`  
+`cp dirA\file dirB: copying a file from one directory to another`  
+`vi: edit a file`  
+`chown: changing ownership of a file/directory`  
+`chmod: changing permission of a file/directory`  
 
 ---
 
@@ -46,6 +46,13 @@ What do the following commands do:
 `ls -Glp`  
 
 > > 
+`ls: listing files/directories under current working directory path`   
+`ls -a: listing all files/directories including the hidden ones (name starting with .)`  
+`ls -l: listing files/directories with a long format`  
+`ls -lh: listing files/directories size in human readable format`
+`ls -lah: listing all files/directories with a long format including the hidden ones`  
+`ls -t: listing all files/directories in a reverse chorological order`
+`ls -Glp: listing all files/directories in a colored format and directories are marked with /`  
 
 ---
 
