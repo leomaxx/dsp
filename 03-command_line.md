@@ -60,7 +60,12 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 
+`-b	Displays nonprinting characters in octal.`  
+`-i	Displays the inode for each file.`  
+`-n	Displays the long format listing, with GID and UID numbers.`  
+`-R	Displays subdirectories as well.`  
+`-u	Displays files by the file access time.`  
 
 ---
 
@@ -68,7 +73,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > Xargs reads data from standard input (stdin) and executes the command (supplied to it as an argument) one or more times based on the input read. [Source](https://www.howtoforge.com/tutorial/linux-xargs-command/) 
 
  
 
