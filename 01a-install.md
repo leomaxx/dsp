@@ -59,7 +59,7 @@ In the Terminal:
 
 `python3 --version`
 
->>```console
+```console
 DN0a2331db:~ songlin$ python --version
 Python 2.7.14 :: Anaconda custom (64-bit)
 
