@@ -9,10 +9,10 @@ Please follow and complete the free online [Bash Scripting Tutorial](https://rya
 ### Q1.  Cheat Sheet of Commands  
 
 Here's a list of items with which you should be familiar:  
-* show current working directory path . 
-* creating a directory . 
-* deleting a directory . 
-* creating a file using `touch` command . 
+* show current working directory path  
+* creating a directory  
+* deleting a directory   
+* creating a file using `touch` command  
 * deleting a file . 
 * renaming a file . 
 * listing hidden files . 
