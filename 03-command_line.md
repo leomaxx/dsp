@@ -20,7 +20,17 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+`pwd: show current working directory path`
+`mkdir: creating a directory`
+`rm -r: deleting a directory`
+`touch: create a file`
+`rm: deleting a file`
+`mv: renaming a file`
+`ls -a: listing hidden files`
+`cp dirA\file dirB: copying a file from one directory to another`
+`vi: edit a file`
+`chown: changing ownership of a file/directory`
+`chmod: changing permission of a file/directory`
 
 ---
 
@@ -36,9 +46,6 @@ What do the following commands do:
 `ls -Glp`  
 
 > > 
-`pwd:[tab] show current working directory path`
-`mkdir:[tab] creating a directory`
-`rm -r:[tab] deleting a directory`
 
 ---
 
