@@ -75,5 +75,12 @@ What does `xargs` do? Give an example of how to use it.
 
 > > Xargs reads data from standard input (stdin) and executes the command (supplied to it as an argument) one or more times based on the input read. [Source](https://www.howtoforge.com/tutorial/linux-xargs-command/) 
 
+```console
+DN0a2324ab:~ songlin$ xargs find . -name
+"*.txt"./Music/Audio Music Apps/Plug-In Settings/Alchemy/Libraries/ImportBrowser/Favorites.txt
+./MS&E 267/Project/selenium-route-eval/node_modules/immediate/LICENSE.txt
+
+```
+
  
 
