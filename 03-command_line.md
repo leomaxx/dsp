@@ -35,7 +35,10 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 
+`pwd:[tab] show current working directory path`
+`mkdir:[tab] creating a directory`
+`rm -r:[tab] deleting a directory`
 
 ---
 
