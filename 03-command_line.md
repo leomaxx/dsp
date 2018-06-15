@@ -49,9 +49,9 @@ What do the following commands do:
 `ls: listing files/directories under current working directory path`   
 `ls -a: listing all files/directories including the hidden ones (name starting with .)`  
 `ls -l: listing files/directories with a long format`  
-`ls -lh: listing files/directories size in human readable format`
-`ls -lah: listing all files/directories with a long format including the hidden ones`  
-`ls -t: listing all files/directories in a reverse chorological order`
+`ls -lh: listing files/directories size in human readable format`  
+`ls -lah: listing all files/directories with a long format including the hidden ones`    
+`ls -t: listing all files/directories in a reverse chorological order`  
 `ls -Glp: listing all files/directories in a colored format and directories are marked with /`  
 
 ---
