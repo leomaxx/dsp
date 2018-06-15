@@ -51,7 +51,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I have both 2.7 and 3.5 as separate environments.
 
 ### Q2. Which Python Version Installed   
 
@@ -59,8 +59,12 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+```console
+DN0a2331db:~ songlin$ python --version
+Python 2.7.14 :: Anaconda custom (64-bit)
 
- 
+(Python35) DN0a2331db:~ songlin$ python3 --version
+Python 3.5.4 :: Anaconda, Inc.
+```
 
 
