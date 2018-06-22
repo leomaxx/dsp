@@ -83,7 +83,7 @@ This problem presents a robust example of actual vs biased data.  As a data scie
 >>> thinkplot.PrePlot(2)
 >>> thinkplot.Pmfs([pmf, biased_pmf])
 >>> thinkplot.Config(xlabel='kids per household', ylabel='PMF')
-![](img/chap3pmf.png)
+<img src="img/chap3pmf.png" width="800"/>![](img/chap3pmf.png)
 
 >>> print ('Actual mean:', pmf.Mean(), '\n' "Biased mean:", biased_pmf.Mean())
 Actual mean: 1.024205155043831 
