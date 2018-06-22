@@ -118,7 +118,10 @@ CDF is almost a linear line with slope = 1, which shows uniform distribution of 
 ### Q4. [Think Stats Chapter 5 Exercise 1](statistics/5-1-blue_men.md) (normal distribution of blue men)
 This is a classic example of hypothesis testing using the normal distribution.  The effect size used here is the Z-statistic. 
 
-
+```{Python}
+>>> (dist.cdf(185.4) - dist.cdf(177.8))*100
+34.20946829459531
+```
 
 ### Q5. Bayesian (Elvis Presley twin) 
 
