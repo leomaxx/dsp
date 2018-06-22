@@ -76,14 +76,16 @@ CohenEffectSize(firsts.prglngth, others.prglngth)
 
 ### Q2. [Think Stats Chapter 3 Exercise 1](statistics/3-1-actual_biased.md) (actual vs. biased)
 This problem presents a robust example of actual vs biased data.  As a data scientist, it will be important to examine not only the data that is available, but also the data that may be missing but highly relevant.  You will see how the absence of this relevant data will bias a dataset, its distribution, and ultimately, its statistical interpretation.
+
 ```{% highlight python %}
 >>> pmf = thinkstats2.Pmf(resp.numkdhh, label='numkdhh')
 >>> biased_pmf = BiasPmf(pmf, label='observed')
 >>> thinkplot.PrePlot(2)
 >>> thinkplot.Pmfs([pmf, biased_pmf])
 >>> thinkplot.Config(xlabel='kids per household', ylabel='PMF')
+![](img/chap3pmf.png)
 
-print ('Actual mean:', pmf.Mean(), '\n' "Biased mean:", biased_pmf.Mean())
+>>> print ('Actual mean:', pmf.Mean(), '\n' "Biased mean:", biased_pmf.Mean())
 Actual mean: 1.024205155043831 
 Biased mean: 2.403679100664282
 {% endhighlight %}
