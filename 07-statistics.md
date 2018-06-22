@@ -136,10 +136,9 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> 
-Frequentists believe the data are generated from a model with fixed parameter, and there are many realizations of the model. We usually get to observe one realization of the model, but we can simulate the other realizations through sampling distribution. Through sampling distribution, we can find out how likely (unlikely) our observation is, given the true parameters of the model.
+>> Frequentists believe the data are generated from a model with fixed parameter, and there are many realizations of the model. We usually get to observe one realization of the model, but we can simulate the other realizations through sampling distribution. Through sampling distribution, we can find out how likely (unlikely) our observation is, given the true parameters of the model.
 
-Bayesians believe the parameters are random. They posit prior distributions of the parameters, combine the pirors with observed data using Baye's theorem, and update their prior belief to posteriors.
+>> Bayesians believe the parameters are random. They posit prior distributions of the parameters, combine the pirors with observed data using Baye's theorem, and update their prior belief to posteriors.
 
 
 ---
